@@ -1,3 +1,36 @@
 body {
     width: 50%
 }
+/* 
+.profile {
+    display: flex;
+    width: 40; 
+    float:left;
+    justify-content: center;
+    align-items: center; 
+    width: 200px;
+}
+
+.profile_body {
+    width: 60%; 
+    float: right
+} */
+
+.container {
+    display: flex;
+}
+
+.left-column {
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.left-column img {
+    max-width: 70%;
+    height: auto;
+}
+.right-column {
+    width: 60%;
+}
