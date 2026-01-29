@@ -17,6 +17,14 @@ body {
     float: right
 } */
 
+p {
+    line-height: 1.2;
+}
+
+a {
+    color: orangered
+}
+
 .container {
     display: flex;
 }
