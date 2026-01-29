@@ -2,20 +2,6 @@ body {
     width: 50%;
     font-family: "Helvetica";
 }
-/* 
-.profile {
-    display: flex;
-    width: 40; 
-    float:left;
-    justify-content: center;
-    align-items: center; 
-    width: 200px;
-}
-
-.profile_body {
-    width: 60%; 
-    float: right
-} */
 
 p {
     line-height: 1.2;
@@ -33,7 +19,8 @@ a {
     width: 40%;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: start;
+    padding-top: 3%;
 }
 
 .left-column img {
